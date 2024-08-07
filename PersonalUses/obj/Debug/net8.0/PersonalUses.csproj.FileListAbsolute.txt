@@ -1,0 +1,14 @@
+C:\Users\vscod\OneDrive\Área de Trabalho\PersonalUses\PersonalUses\bin\Debug\net8.0\PersonalUses.exe
+C:\Users\vscod\OneDrive\Área de Trabalho\PersonalUses\PersonalUses\bin\Debug\net8.0\PersonalUses.deps.json
+C:\Users\vscod\OneDrive\Área de Trabalho\PersonalUses\PersonalUses\bin\Debug\net8.0\PersonalUses.runtimeconfig.json
+C:\Users\vscod\OneDrive\Área de Trabalho\PersonalUses\PersonalUses\bin\Debug\net8.0\PersonalUses.dll
+C:\Users\vscod\OneDrive\Área de Trabalho\PersonalUses\PersonalUses\bin\Debug\net8.0\PersonalUses.pdb
+C:\Users\vscod\OneDrive\Área de Trabalho\PersonalUses\PersonalUses\obj\Debug\net8.0\PersonalUses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vscod\OneDrive\Área de Trabalho\PersonalUses\PersonalUses\obj\Debug\net8.0\PersonalUses.AssemblyInfoInputs.cache
+C:\Users\vscod\OneDrive\Área de Trabalho\PersonalUses\PersonalUses\obj\Debug\net8.0\PersonalUses.AssemblyInfo.cs
+C:\Users\vscod\OneDrive\Área de Trabalho\PersonalUses\PersonalUses\obj\Debug\net8.0\PersonalUses.csproj.CoreCompileInputs.cache
+C:\Users\vscod\OneDrive\Área de Trabalho\PersonalUses\PersonalUses\obj\Debug\net8.0\PersonalUses.dll
+C:\Users\vscod\OneDrive\Área de Trabalho\PersonalUses\PersonalUses\obj\Debug\net8.0\refint\PersonalUses.dll
+C:\Users\vscod\OneDrive\Área de Trabalho\PersonalUses\PersonalUses\obj\Debug\net8.0\PersonalUses.pdb
+C:\Users\vscod\OneDrive\Área de Trabalho\PersonalUses\PersonalUses\obj\Debug\net8.0\PersonalUses.genruntimeconfig.cache
+C:\Users\vscod\OneDrive\Área de Trabalho\PersonalUses\PersonalUses\obj\Debug\net8.0\ref\PersonalUses.dll
